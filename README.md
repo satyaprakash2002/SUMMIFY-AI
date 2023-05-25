@@ -2,7 +2,7 @@
 # ABOUT -
 Introducing our innovative SUMMIFY AI website that harnesses the power of OpenAI's GPT-4 through a REST API to provide exceptional article summarization. With the advanced capabilities of GPT-4, this platform can take any article URL and generate a comprehensive summary that captures the essential information within seconds. By leveraging the cutting-edge language model, we ensure that the summarization process is accurate, coherent, and efficient. Experience the convenience of this user-friendly website as you effortlessly obtain concise summaries of lengthy articles. Stay informed and save valuable time with this AI-driven article summarization service, powered by OpenAI's GPT-4 and accessible through our intuitive REST API integration.
 # KEY FEATURES - 
-### -> Time-saving: 
+## -> Time-saving: 
 Your website offers the convenience of quickly generating concise summaries of articles. Users can save valuable time by obtaining the key points and main ideas without having to read the entire article.
 ## -> Efficiency: 
 With the integration of OpenAI's GPT-4 through a REST API, your website utilizes advanced natural language processing capabilities. This allows for accurate and coherent summarization, enhancing the efficiency of the process.
